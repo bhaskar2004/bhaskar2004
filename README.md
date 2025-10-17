@@ -1,71 +1,119 @@
 <div align="center">
 
-# 👨‍💻 Bhaskar T
+```
+██████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗ █████╗ ██████╗     ████████╗
+██╔══██╗██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔══██╗██╔══██╗    ╚══██╔══╝
+██████╔╝███████║███████║███████╗█████╔╝ ███████║██████╔╝       ██║   
+██╔══██╗██╔══██║██╔══██║╚════██║██╔═██╗ ██╔══██║██╔══██╗       ██║   
+██████╔╝██║  ██║██║  ██║███████║██║  ██╗██║  ██║██║  ██║       ██║   
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝       ╚═╝   
+```
 
-**Building solutions that matter** | CS Engineer | Open Source Enthusiast
+<pre style="font-family: 'Fira Code', monospace;">
+<strong>CS Engineer × Problem Solver × Builder</strong>
+</pre>
 
-[![Gmail](https://img.shields.io/badge/bhaskart.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhaskart.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskart2004)
-[![GitHub](https://img.shields.io/badge/Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/bhaskar2004)
+[![Email](https://img.shields.io/badge/📧_bhaskart.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaskart.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskart2004)
+[![GitHub](https://img.shields.io/badge/⭐_Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhaskar2004)
+
+---
+
+</div>
+
+<pre style="font-family: 'Fira Code', monospace;">
+<strong>// WHAT_I_DO</strong>
+
+const bhaskar = {
+    role: "Computer Science Engineer",
+    college: "SJC Institute of Technology",
+    cgpa: 8.69,
+    focus: ["Full-Stack Development", "Assistive Tech", "Problem Solving"],
+    motto: "Build with purpose. Code with passion."
+};
+
+console.log(bhaskar.motto); // → "Build with purpose. Code with passion."
+</pre>
+
+---
+
+<div style="font-family: 'Fira Code', monospace;">
+
+## `$ ls -la ~/projects`
+
+### `📁 smart-navigation/`
+**Real-time object detection system for visually impaired users**  
+→ Python · Computer Vision · Audio Processing · Accessibility  
+→ _Making independence accessible through technology_
+
+### `📁 vehicle-registration-system/`
+**Enterprise CRUD application for vehicle data management**  
+→ Java · MySQL · JDBC · GUI  
+→ _Efficient data handling with seamless user experience_
+
+### `📁 better-trips/`
+**Tourism web app with 20+ nearby attractions discovery**  
+→ JavaScript · Geoapify API · Google Maps · Responsive Design  
+→ _Smart travel planning at your fingertips_
+
+### `📁 weather-bot/`
+**Conversational AI for real-time weather updates**  
+→ BotPress · OpenWeatherMap API · Natural Language  
+→ _Weather intelligence in conversation_
+
+<div align="center">
+
+**[`→ view_all_repositories()`](https://github.com/bhaskar2004?tab=repositories)**
 
 </div>
 
 ---
 
-## 💡 What I Do
+## `$ cat /etc/achievements`
 
-I turn complex problems into elegant code. Currently pursuing **Computer Science at SJCIT** (CGPA: **8.69**), I specialize in building **full-stack applications** and **assistive technologies** that create real-world impact.
-```java
-class BhaskarT {
-    String[] skills = {"Java", "Web Development", "Problem Solving"};
-    String mission = "Code with purpose, build with passion";
-}
+```
+[✓] NextGen 2.0 Hackathon        @ PES University
+[✓] Code Sprint 2.0              @ NMIT
+[✓] Alkimi Innovation Challenge  @ Innovation Hub
+[✓] Aventus 2.0                  @ DSCE
 ```
 
 ---
 
-## 🔥 Projects That Matter
+## `$ echo $TECH_STACK`
 
-### 🦯 **Smart Navigation for the Visually Impaired**
-Real-time object detection + audio feedback = independence for visually impaired users  
-`Python` `Computer Vision` `Accessibility`
+```bash
+languages=("Java" "HTML5" "CSS3" "SQL" "JavaScript")
+tools=("Git" "GitHub" "IntelliJ IDEA" "VS Code" "MySQL")
+learning=("React" "Node.js" "Data Structures")
+```
 
-### 🚗 **Vehicle Registration System**
-Enterprise-grade CRUD system handling vehicle data management  
-`Java` `MySQL` `JDBC`
+<div align="center">
 
-### 🗺️ **Better Trips**
-Discover 20+ attractions near you with intelligent filtering and maps  
-`JavaScript` `Geoapify API` `Google Maps`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🌦️ **Weather Bot**
-Conversational AI delivering real-time weather insights  
-`BotPress` `OpenWeatherMap API`
-
-[**→ View All Projects**](https://github.com/bhaskar2004?tab=repositories)
-
----
-
-## 🏆 Battle-Tested
-
-Competed in **NextGen 2.0** • **Code Sprint 2.0** • **Alkimi** • **Aventus 2.0**
-
----
-
-## 🛠️ Arsenal
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+</div>
 
 ---
 
 <div align="center">
 
-### 💭 *"Innovation begins where curiosity meets persistence."*
+```python
+# Philosophy
+print("Innovation begins where curiosity meets persistence")
+```
 
-**Open for collaborations** • **Building in public** • **Always learning**
+<pre style="font-family: 'Fira Code', monospace;">
+<strong>[ OPEN FOR COLLABORATIONS ] · [ BUILDING IN PUBLIC ] · [ ALWAYS LEARNING ]</strong>
+</pre>
+
+![Profile Views](https://komarev.com/ghpvc/?username=bhaskar2004&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
 
 </div>
