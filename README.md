@@ -41,79 +41,7 @@ console.log(bhaskar.mantra); // → "Build with purpose. Code with passion."
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> Projects That Matter
 
-<table>
-<tr>
-<td width="50%">
 
-### 🦯 Smart Navigation System
-**Making independence accessible**
-
-```yaml
-Tech Stack: Python | OpenCV | Audio AI
-Impact: Accessibility × Real-Time Detection
-Status: 🟢 Live & Deployed
-```
-
-Real-time object detection + audio feedback system empowering visually impaired users with AI-powered independence.
-
-**[→ View Project](https://github.com/bhaskar2004/Smart-Navigation-Systems)**
-
-</td>
-<td width="50%">
-
-### 🚗 Vehicle Registration System
-**Enterprise-grade data management**
-
-```yaml
-Tech Stack: Java | MySQL | JDBC
-Impact: Automation × CRUD Mastery
-Status: 🟢 Production Ready
-```
-
-Full-featured CRUD application with intuitive GUI for efficient vehicle data handling and management.
-
-**[→ View Project](https://github.com/bhaskar2004/vehicle-registration-management-system)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🗺️ Better Trips
-**Smart travel companion**
-
-```yaml
-Tech Stack: JavaScript | Geoapify | Maps
-Impact: Tourism × Geolocation × UX
-Status: 🟢 Live
-```
-
-Responsive web app discovering 20+ attractions nearby with intelligent filtering and seamless Google Maps integration.
-
-**[→ View Project](https://github.com/bhaskar2004/better-trips)**
-
-</td>
-<td width="50%">
-
-### 🌦️ Weather Forecast Bot
-**Weather intelligence in conversation**
-
-```yaml
-Tech Stack: BotPress | OpenWeather API
-Impact: Conversational AI × Real-Time
-Status: 🟢 Operational
-```
-
-Conversational AI delivering real-time weather updates through natural language interactions.
-
-**[→ View Project](https://github.com/bhaskar2004/weather-bot)**
-
-</td>
-</tr>
-</table>
-
-<div align="center">
 
 **[📂 Explore All Projects →](https://github.com/bhaskar2004?tab=repositories)**
 
