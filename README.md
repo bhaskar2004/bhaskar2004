@@ -3,7 +3,7 @@
 
 ---
 
-### 🎯 About Me
+### 🎯 What I Do
 Computer Science undergraduate at **SJC Institute of Technology** (CGPA: **8.69**) with a passion for building impactful solutions. Experienced in **Core Java**, **Web Development**, and creating user-centric applications.
 
 ---
@@ -38,7 +38,7 @@ NextGen 2.0 (PES) • Code Sprint 2.0 (NMIT) • Alkimi • Aventus 2.0 (DSCE)
 
 ### 🌐 Connect
 <p align="left">
-  <a href="mailto:bhaskarbhaskar4794@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:bhaskart.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/bhaskart2004"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/bhaskar2004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
