@@ -1,6 +1,47 @@
+ascii╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗ █████╗ ██████╗     ████████╗   ║
+║   ██╔══██╗██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔══██╗██╔══██╗    ╚══██╔══╝   ║
+║   ██████╔╝███████║███████║███████╗█████╔╝ ███████║██████╔╝       ██║      ║
+║   ██╔══██╗██╔══██║██╔══██║╚════██║██╔═██╗ ██╔══██║██╔══██╗       ██║      ║
+║   ██████╔╝██║  ██║██║  ██║███████║██║  ██╗██║  ██║██║  ██║       ██║      ║
+║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝       ╚═╝      ║
+║                                                                              ║
+║            < SYSTEM.ARCHITECT /> | < CODE.ALCHEMIST /> | < 0x42 />          ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12&height=180&section=header&text=BHASKAR%20T&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=CS%20Engineer%20%C3%97%20Problem%20Solver%20%C3%97%20Builder&descSize=16&descAlignY=51&descAlign=50" width="100%"/>
+Show Image
+</div>
+```bash
+┌──(bhaskar@terminal)-[~]
+└─$ cat identity.json
+```
+```json
+{
+  "name": "Bhaskar T",
+  "status": "CS_ENGINEER_ACTIVE",
+  "location": "SJCIT_NODE",
+  "rank": {
+    "cgpa": 8.69,
+    "level": "SENIOR_CADET"
+  },
+  "operating_mode": "INNOVATION_DRIVEN",
+  "primary_directive": "BUILD > BREAK > OPTIMIZE > REPEAT",
+  "uptime": "24/7/365",
+  "stack_overflow_reputation": "GROWING",
+  "coffee_consumption": "MAXIMUM"
+}
+```
+```bash
+┌──(bhaskar@terminal)-[~]
+└─$ ./connect.sh
+```
+<div align="center">
+Show Image
+Show Image
+Show Image
+</div>
 
 [![Gmail](https://img.shields.io/badge/Gmail-bhaskart.dev@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&labelColor=000000)](mailto:bhaskart.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFFFFF?style=for-the-badge&logo=linkedin&labelColor=000000)](https://www.linkedin.com/in/bhaskart2004)
