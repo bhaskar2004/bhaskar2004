@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=BHASKAR%20T&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Engineer%20%C3%97%20Problem%20Solver%20%C3%97%20Builder&descSize=16&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=180&section=header&text=BHASKAR%20T&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Engineer%20%C3%97%20Problem%20Solver%20%C3%97%20Builder&descSize=16&descAlignY=51&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&repeat=true&width=600&lines=%E2%9A%A1+Building+the+future+with+code;%F0%9F%92%BB+Full-Stack+Engineer;%F0%9F%9A%80+Turning+ideas+into+reality;%E2%98%95+Powered+by+caffeine+%26+curiosity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&lines=%E2%9A%A1+Building+the+future+with+code;%F0%9F%92%BB+Full-Stack+Engineer;%F0%9F%9A%80+Turning+ideas+into+reality;%E2%98%95+Powered+by+caffeine+%26+curiosity)](https://git.io/typing-svg)
 
-[![Gmail](https://img.shields.io/badge/Gmail-bhaskart.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:bhaskart.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://www.linkedin.com/in/bhaskart2004)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/bhaskar2004)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F7F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a)](https://github.com/bhaskar2004)
+[![Gmail](https://img.shields.io/badge/Gmail-bhaskart.dev@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000)](mailto:bhaskart.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000)](https://www.linkedin.com/in/bhaskart2004)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/bhaskar2004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=000000)](https://github.com/bhaskar2004)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -127,26 +127,26 @@ Conversational AI delivering real-time weather updates through natural language 
 
 ### Languages & Frameworks
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-FFFFFF?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-FFFFFF?style=for-the-badge&logo=intellij-idea&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black)
 
 ### Currently Learning
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -190,11 +190,11 @@ for skill, level in skills.items():
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhaskar2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&text_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar2004&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F4&ring=00F7F4&fire=00F7F4&currStreakLabel=00F7F4" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=bhaskar2004&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar2004&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=808080" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F4&text_color=ffffff" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskar2004&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F4&line=00F7F4&point=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar2004&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskar2004&theme=github-compact&hide_border=true&bg_color=000000&color=FFFFFF&line=808080&point=FFFFFF" width="48%" />
 
 </div>
 
@@ -232,8 +232,8 @@ int main() {
 
 ### 🚀 Open for Collaborations • 🌟 Building in Public • 📚 Always Learning
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhaskar2004&color=00F7F4&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=bhaskar2004&color=000000&style=for-the-badge&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=100&section=footer" width="100%"/>
 
 </div>
