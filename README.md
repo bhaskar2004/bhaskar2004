@@ -1,15 +1,16 @@
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║   ██████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗ █████╗ ██████╗     ████████╗   ║
-║   ██╔══██╗██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔══██╗██╔══██╗    ╚══██╔══╝   ║
-║   ██████╔╝███████║███████║███████╗█████╔╝ ███████║██████╔╝       ██║      ║
-║   ██╔══██╗██╔══██║██╔══██║╚════██║██╔═██╗ ██╔══██║██╔══██╗       ██║      ║
-║   ██████╔╝██║  ██║██║  ██║███████║██║  ██╗██║  ██║██║  ██║       ██║      ║
-║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝       ╚═╝      ║
+║   ██████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗ █████╗ ██████╗     ████████╗      ║
+║   ██╔══██╗██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔══██╗██╔══██╗    ╚══██╔══╝      ║
+║   ██████╔╝███████║███████║███████╗█████╔╝ ███████║██████╔╝       ██║         ║
+║   ██╔══██╗██╔══██║██╔══██║╚════██║██╔═██╗ ██╔══██║██╔══██╗       ██║         ║
+║   ██████╔╝██║  ██║██║  ██║███████║██║  ██╗██║  ██║██║  ██║       ██║         ║
+║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝       ╚═╝         ║
 ║                                                                              ║
-║            < SYSTEM.ARCHITECT /> | < CODE.ALCHEMIST /> | < 0x42 />          ║
+║            < SYSTEM.ARCHITECT /> | < CODE.ALCHEMIST /> | < 0x42 />           ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
+<div>
 
 [![Gmail](https://img.shields.io/badge/Gmail-bhaskart.dev@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&labelColor=000000)](mailto:bhaskart.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFFFFF?style=for-the-badge&logo=linkedin&labelColor=000000)](https://www.linkedin.com/in/bhaskart2004)
@@ -104,6 +105,6 @@ int main() {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bhaskar2004&color=000000&style=for-the-badge&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=100&section=footer" width="100%"/>
+
 
 </div>
