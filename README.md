@@ -13,38 +13,10 @@
 
 </div>
 
-##
-
-```javascript
-// 🎯 ABOUT_ME.js
-
-const bhaskar = {
-    role: "Computer Science Engineer",
-    institution: "SJC Institute of Technology",
-    cgpa: 8.69,
-    currentFocus: ["Full-Stack Development", "Assistive Technology", "Problem Solving"],
-    mantra: "Build with purpose. Code with passion.",
-    lifeGoal: () => {
-        while(alive) {
-            learn();
-            code();
-            ship();
-            iterate();
-        }
-    }
-};
-
-console.log(bhaskar.mantra); // → "Build with purpose. Code with passion."
-```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
