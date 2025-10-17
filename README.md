@@ -7,12 +7,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-FFFFFF?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/bhaskar2004)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FFFFFF?style=for-the-badge&logo=google-chrome&labelColor=000000)](https://github.com/bhaskar2004)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 </div>
 
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## Tech Arsenal
 
@@ -52,7 +50,6 @@ for skill, level in skills.items():
     print(f"{skill:<15} {level}")
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ##  Battle Log
 
@@ -70,8 +67,6 @@ for skill, level in skills.items():
 ```
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 
 
@@ -94,7 +89,7 @@ int main() {
 }
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 
 ### 🚀 Open for Collaborations • 🌟 Building in Public • 📚 Always Learning
 
