@@ -39,11 +39,6 @@ console.log(bhaskar.mantra); // → "Build with purpose. Code with passion."
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> Projects That Matter
-
-
-
-**[📂 Explore All Projects →](https://github.com/bhaskar2004?tab=repositories)**
 
 </div>
 
@@ -121,8 +116,9 @@ for skill, level in skills.items():
 ```c
 /*
  ╔═══════════════════════════════════════════════════════╗
- ║  "Innovation begins where curiosity meets persistence" ║
- ║                                                        ║
+ ║          "Innovation begins where curiosity           ║
+ ║                 meets persistence"                        ║
+ ║                                                       ║
  ║  Code is poetry written in logic                      ║
  ║  Bugs are just undocumented features                  ║
  ║  Every error is a step closer to perfection           ║
