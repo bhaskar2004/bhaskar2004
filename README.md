@@ -22,12 +22,13 @@
 
 ### Languages & Frameworks
 
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql)
+
 
 ### Tools & Technologies
 
@@ -37,11 +38,6 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-FFFFFF?style=for-the-badge&logo=intellij-idea&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black)
 
-### Currently Learning
-
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -60,7 +56,7 @@ for skill, level in skills.items():
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🏆 Battle Log
+##  Battle Log
 
 <div align="center">
 
@@ -86,16 +82,6 @@ for skill, level in skills.items():
 <div align="center">
 
 ```c
-/*
- ╔═══════════════════════════════════════════════════════╗
- ║          "Innovation begins where curiosity           ║
- ║                 meets persistence"                        ║
- ║                                                       ║
- ║  Code is poetry written in logic                      ║
- ║  Bugs are just undocumented features                  ║
- ║  Every error is a step closer to perfection           ║
- ╚═══════════════════════════════════════════════════════╝
-*/
 
 #define SUCCESS (PASSION + HARDWORK) * CONSISTENCY
 
