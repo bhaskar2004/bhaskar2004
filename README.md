@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:434343,100:000000&height=250&section=header&text=BHASKAR%20T&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20Engineer%20%C3%97%20Problem%20Solver%20%C3%97%20Builder&descSize=20&descAlignY=58&descAlign=50&theme=dark" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=BHASKAR%20T&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20Engineer%20%C3%97%20Problem%20Solver%20%C3%97%20Builder&descSize=20&descAlignY=58&descAlign=50" width="100%"/>
 
 <p align="center">
   <a href="mailto:bhaskart.dev@gmail.com">
@@ -112,7 +112,7 @@ int main() {
 ### 🚀 Open for Collaborations • 🌟 Building in Public • 📚 Always Learning
 
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=bhaskar2004&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
+![Profile Views](https://komarev.com/ghpvc/?username=bhaskar2004&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 </div>
