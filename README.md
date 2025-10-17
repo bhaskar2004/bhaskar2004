@@ -1,4 +1,5 @@
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0&height=180&section=header&text=BHASKAR%20T&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Engineer%20%C3%97%20Problem%20Solver%20%C3%97%20Builder&descSize=16&descAlignY=51&descAlign=50" width="100%"/>
 <div>
 
 [![Gmail](https://img.shields.io/badge/Gmail-bhaskart.dev@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&labelColor=000000)](mailto:bhaskart.dev@gmail.com)
