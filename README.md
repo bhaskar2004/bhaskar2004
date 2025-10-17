@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12&height=180&section=header&text=BHASKAR%20T&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=CS%20Engineer%20%C3%97%20Problem%20Solver%20%C3%97%20Builder&descSize=16&descAlignY=51&descAlign=50" width="100%"/>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&lines=%E2%9A%A1+Building+the+future+with+code;%F0%9F%92%BB+Full-Stack+Engineer;%F0%9F%9A%80+Turning+ideas+into+reality;%E2%98%95+Powered+by+caffeine+%26+curiosity)](https://git.io/typing-svg)
-
 [![Gmail](https://img.shields.io/badge/Gmail-bhaskart.dev@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&labelColor=000000)](mailto:bhaskart.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFFFFF?style=for-the-badge&logo=linkedin&labelColor=000000)](https://www.linkedin.com/in/bhaskart2004)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-FFFFFF?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/bhaskar2004)
