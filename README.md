@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗ █████╗ ██████╗     ████████╗
-██╔══██╗██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔══██╗██╔══██╗    ╚══██╔══╝
-██████╔╝███████║███████║███████╗█████╔╝ ███████║██████╔╝       ██║   
-██╔══██╗██╔══██║██╔══██║╚════██║██╔═██╗ ██╔══██║██╔══██╗       ██║   
-██████╔╝██║  ██║██║  ██║███████║██║  ██╗██║  ██║██║  ██║       ██║   
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝       ╚═╝   
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Bhaskar+T;CS+Engineer+%7C+Problem+Solver;Building+Solutions+That+Matter;Full-Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 
 <pre style="font-family: 'Fira Code', monospace;">
 <strong>CS Engineer × Problem Solver × Builder</strong>
