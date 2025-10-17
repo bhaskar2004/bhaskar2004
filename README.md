@@ -4,16 +4,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&lines=%E2%9A%A1+Building+the+future+with+code;%F0%9F%92%BB+Full-Stack+Engineer;%F0%9F%9A%80+Turning+ideas+into+reality;%E2%98%95+Powered+by+caffeine+%26+curiosity)](https://git.io/typing-svg)
 
-[![Gmail](https://img.shields.io/badge/Gmail-bhaskart.dev@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000)](mailto:bhaskart.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000)](https://www.linkedin.com/in/bhaskart2004)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/bhaskar2004)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=000000)](https://github.com/bhaskar2004)
+[![Gmail](https://img.shields.io/badge/Gmail-bhaskart.dev@gmail.com-FFFFFF?style=for-the-badge&logo=gmail&labelColor=000000)](mailto:bhaskart.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFFFFF?style=for-the-badge&logo=linkedin&labelColor=000000)](https://www.linkedin.com/in/bhaskart2004)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-FFFFFF?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/bhaskar2004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FFFFFF?style=for-the-badge&logo=google-chrome&labelColor=000000)](https://github.com/bhaskar2004)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
-## 
+##
 
 ```javascript
 // 🎯 ABOUT_ME.js
