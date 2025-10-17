@@ -154,11 +154,9 @@ Conversational AI delivering real-time weather updates through natural language 
 # 📊 Skill Levels
 
 skills = {
-    "Java": "████████████████████ 95%",
-    "HTML/CSS": "██████████████████░░ 90%",
-    "JavaScript": "████████████████░░░░ 80%",
+    "Core Java": "█████████████ 89%",
+    "HTML/CSS": "██████████████████░░ 70%",
     "SQL": "███████████████░░░░░ 75%",
-    "Python": "███████████░░░░░░░░░ 55%"
 }
 
 for skill, level in skills.items():
@@ -177,7 +175,7 @@ for skill, level in skills.items():
 ╠══════════════════════════════════════════════════════════╣
 ║  [✓] NextGen 2.0                    @ PES University     ║
 ║  [✓] Code Sprint 2.0                @ NMIT               ║
-║  [✓] Alkimi Innovation Challenge    @ Innovation Hub     ║
+║  [✓] Alkimi                         @ Web3 Hackaton      ║
 ║  [✓] Aventus 2.0                    @ DSCE               ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -186,19 +184,7 @@ for skill, level in skills.items():
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 📈 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhaskar2004&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar2004&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=808080" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar2004&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskar2004&theme=github-compact&hide_border=true&bg_color=000000&color=FFFFFF&line=808080&point=FFFFFF" width="48%" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 💭 Philosophy
 
