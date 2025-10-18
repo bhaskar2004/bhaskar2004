@@ -63,45 +63,12 @@ for skill, level in skills.items():
     print(f"{skill:<15} {level}")
 ```
 
-<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
 
-## 🏆 Battle Log
 
-```bash
-╔══════════════════════════════════════════════════════════╗
-║  🎯 HACKATHON ACHIEVEMENTS                               ║
-╠══════════════════════════════════════════════════════════╣
-║  [✓] NextGen 2.0                    @ PES University     ║
-║  [✓] Code Sprint 2.0                @ NMIT               ║
-║  [✓] Alkimi                         @ Web3 Hackaton      ║
-║  [✓] Aventus 2.0                    @ DSCE               ║
-╚══════════════════════════════════════════════════════════╝
-```
 
-<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 💭 Philosophy
-
-```c
-#define SUCCESS (PASSION + HARDWORK) * CONSISTENCY
-int main() {
-    while(alive) {
-        learn();
-        build();
-        ship();
-        improve();
-    }
-    return SUCCESS;
-}
-```
 
 <br>
 
