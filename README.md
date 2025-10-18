@@ -1,76 +1,49 @@
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ██████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗ █████╗ ██████╗     ████████╗    ║
-║   ██╔══██╗██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔══██╗██╔══██╗    ╚══██╔══╝    ║
-║   ██████╔╝███████║███████║███████╗█████╔╝ ███████║██████╔╝       ██║       ║
-║   ██╔══██╗██╔══██║██╔══██║╚════██║██╔═██╗ ██╔══██║██╔══██╗       ██║       ║
-║   ██████╔╝██║  ██║██║  ██║███████║██║  ██╗██║  ██║██║  ██║       ██║       ║
-║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝       ╚═╝       ║
-║                                                                              ║
-║              CS Engineer × Problem Solver × Builder                          ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+# Hi 👋, I'm Bhaskar
 
-```bash
-$ whoami
-> bhaskar2004
+### CS Engineer × Problem Solver × Builder
 
-$ cat contact.sh
-```
-
-[![Email](https://img.shields.io/badge/📧%20BHASKART.DEV@GMAIL.COM-EA4335?style=for-the-badge&logoColor=white)](mailto:bhaskart.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskart2004)
-[![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhaskar2004)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-667eea?style=for-the-badge)](https://github.com/bhaskar2004)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding">
 
 </div>
 
 ---
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### 🚀 About Me
 
-### 💻 Languages
-
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/INTELLIJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</td>
-</tr>
-</table>
+- 🔭 I'm currently working on **building innovative solutions**
+- 🌱 I'm learning **Data Structures & Algorithms**
+- 💬 Ask me about **Java, Web Development, Problem Solving**
+- 📫 How to reach me **bhaskart.dev@gmail.com**
+- ⚡ Fun fact: **I turn coffee into code ☕**
 
 ---
 
-<div align="center">
+### 🌐 Connect with me:
 
-### 📊 Skill Proficiency
+<a href="https://www.linkedin.com/in/bhaskart2004" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:bhaskart.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/bhaskar2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-![Java](https://img.shields.io/badge/Core_Java-89%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-70%25-E34F26?style=flat-square&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-75%25-4479A1?style=flat-square&logo=mysql&logoColor=white)
+---
 
-**🚀 Open for Collaborations • 🌟 Building in Public • 📚 Always Learning**
+### 💻 Languages and Tools:
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhaskar2004&color=blueviolet&style=flat-square)
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+</p>
 
-</div>
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=bhaskar2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
