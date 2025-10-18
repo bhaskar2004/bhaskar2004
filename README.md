@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 * 🔭 I'm currently working on building innovative solutions
-* 🌱 I'm learning Data Structures & Algorithms
+* 🌱 I'm learning Selenium with java 
 * 💬 Ask me about Java, Web Development, Problem Solving
 * 📫 How to reach me: bhaskart.dev@gmail.com
 * 🌐 Check out my portfolio: [bhaskar2004.github.io/my.portfolio](https://bhaskar2004.github.io/my.portfolio/)
