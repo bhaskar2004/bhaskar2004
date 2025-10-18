@@ -1,34 +1,29 @@
-<div align="center">
+<div align="center"> 
 
 # Hi 👋, I'm Bhaskar
 
-### CS Engineer × Problem Solver × Builder
-
+**CS Engineer × Problem Solver × Builder**
 
 
 </div>
 
----
+## 🚀 About Me
 
-### 🚀 About Me
+* 🔭 I'm currently working on building innovative solutions
+* 🌱 I'm learning Data Structures & Algorithms
+* 💬 Ask me about Java, Web Development, Problem Solving
+* 📫 How to reach me: bhaskart.dev@gmail.com
+* 🌐 Check out my portfolio: [bhaskar2004.github.io/my.portfolio](https://bhaskar2004.github.io/my.portfolio/)
+* ⚡ Fun fact: I turn coffee into code ☕
 
-- 🔭 I'm currently working on **building innovative solutions**
-- 🌱 I'm learning **Data Structures & Algorithms**
-- 💬 Ask me about **Java, Web Development, Problem Solving**
-- 📫 How to reach me **bhaskart.dev@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code ☕**
+## 🌐 Connect with me:
 
----
-
-### 🌐 Connect with me:
-
+<a href="https://bhaskar2004.github.io/my.portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/bhaskart2004" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:bhaskart.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/bhaskar2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
----
-
-### 💻 Languages and Tools:
+## 💻 Languages and Tools:
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -42,7 +37,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
 </p>
 
+## 📊 GitHub Stats:
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bhaskar2004&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar2004&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskar2004&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=bhaskar2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
