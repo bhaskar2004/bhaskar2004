@@ -13,7 +13,7 @@
 * 🌱 I'm learning Selenium with java 
 * 💬 Ask me about Java, Web Development, Problem Solving
 * 📫 How to reach me: bhaskart.dev@gmail.com
-* 🌐 Check out my portfolio: [bhaskar2004.github.io/my.portfolio](https://bhaskar2004.github.io/my.portfolio/)
+* 🌐 Check out my portfolio: [bhaskar.xyz/](https://bhaskar.xyz/)
 * ⚡ Fun fact: I turn coffee into code ☕
 
 ## 🌐 Connect with me:
