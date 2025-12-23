@@ -1,8 +1,7 @@
-<div align="center"> 
-# Hey there! 👋 I'm Bhaskar
-
+<div align="center">
+<img src="your-banner-image-url-here.png" alt="Banner" width="100%"/>
+Hey there! 👋 I'm Bhaskar
 CS engineer who loves solving problems and building things.
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding">
 </div>
 
