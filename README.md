@@ -1,24 +1,18 @@
 <div align="center"> 
+# Hey there! 👋 I'm Bhaskar
 
-# Hi 👋, I'm Bhaskar
+CS engineer who loves solving problems and building things.
 
-**CS Engineer × Problem Solver × Builder**
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding">
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding">
 </div>
 
-## 🚀 About Me
+## A bit about me
 
-* 🔭 I'm currently working on building innovative solutions
-* 🌱 I'm learning Automation testing 
-* 💬 Ask me about Java, Web Development, Problem Solving
-* 📫 How to reach me: bhaskart.dev@gmail.com
-* 🌐 Check out my portfolio: [bhaskar2004.github.io/my.portfolio](https://bhaskar2004.github.io/my.portfolio/)
+Right now, I'm building innovative solutions and learning automation testing. I enjoy working with Java and web development, and I'm always up for a good problem-solving challenge.
 
+Drop me an email at **bhaskart.dev@gmail.com** or check out my [portfolio](https://bhaskar2004.github.io/my.portfolio/)
 
-
-## 💻 Languages and Tools:
+## What I work with
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -30,10 +24,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
 </p>
 
-## 🌐 Connect with me:
+## Let's connect
 
 <a href="https://bhaskar2004.github.io/my.portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/bhaskart2004" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:bhaskart.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/bhaskar2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
