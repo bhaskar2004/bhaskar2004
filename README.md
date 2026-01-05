@@ -10,7 +10,7 @@ CS engineer who loves solving problems and building things.
 
 Right now, I'm building innovative solutions and learning automation testing. I enjoy working with Java and web development, and I'm always up for a good problem-solving challenge.
 
-Drop me an email at **bhaskart.dev@gmail.com** or check out my [portfolio](https://bhaskar2004.github.io/my.portfolio/)
+Drop me an email at **bhaskart.dev@gmail.com** or check out my [portfolio](https://bhaskar.xyz)
 
 ## What I work with
 
