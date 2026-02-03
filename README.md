@@ -1,9 +1,11 @@
 <div align="center"> 
-# Hey there! 👋 I'm Bhaskar
 
-CS engineer who loves solving problems and building things.
+# Hey there! I'm Bhaskar
+
+Just a CS student who happens to love finding bugs. I'm the guy who'll test your app until something breaks, then figure out why. I'm all about making sure software is solid, reliable, and won't fall apart when people actually use it. Details matter, and I'm kind of obsessed with getting them right.
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding">
+
 </div>
 
 ## A bit about me
